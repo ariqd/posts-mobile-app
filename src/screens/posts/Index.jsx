@@ -57,7 +57,7 @@ export default function PostIndex({navigation}) {
   return (
     <>
       <View style={styles.container}>
-        <Text style={styles.text}>Tutorial Express + React Native</Text>
+        <Text style={styles.text}>All Posts</Text>
         <View style={styles.line} />
         {/** data posts */}
         {loading ? (
